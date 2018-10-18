@@ -1,0 +1,11 @@
+/Users/borakasmer/lockRedis/bin/Debug/netcoreapp2.1/lockRedis.deps.json
+/Users/borakasmer/lockRedis/bin/Debug/netcoreapp2.1/lockRedis.runtimeconfig.json
+/Users/borakasmer/lockRedis/bin/Debug/netcoreapp2.1/lockRedis.runtimeconfig.dev.json
+/Users/borakasmer/lockRedis/bin/Debug/netcoreapp2.1/lockRedis.dll
+/Users/borakasmer/lockRedis/bin/Debug/netcoreapp2.1/lockRedis.pdb
+/Users/borakasmer/lockRedis/obj/Debug/netcoreapp2.1/lockRedis.csprojAssemblyReference.cache
+/Users/borakasmer/lockRedis/obj/Debug/netcoreapp2.1/lockRedis.csproj.CoreCompileInputs.cache
+/Users/borakasmer/lockRedis/obj/Debug/netcoreapp2.1/lockRedis.AssemblyInfoInputs.cache
+/Users/borakasmer/lockRedis/obj/Debug/netcoreapp2.1/lockRedis.AssemblyInfo.cs
+/Users/borakasmer/lockRedis/obj/Debug/netcoreapp2.1/lockRedis.dll
+/Users/borakasmer/lockRedis/obj/Debug/netcoreapp2.1/lockRedis.pdb
